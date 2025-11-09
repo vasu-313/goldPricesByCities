@@ -1,26 +1,23 @@
 {
   "cost": {
-    "Ahmedabad": 12140,
+    "Ahmedabad": 12207,
     "Amritsar": 11850,
-    "Bengaluru": 12490,
+    "Bengaluru": 12202,
     "Bhopal": 11760,
-    "Chennai": 12300,
-    "Coimbatore": 11940,
-    "Delhi": 12560,
+    "Chennai": 12328,
+    "Coimbatore": 12328,
+    "Delhi": 12217,
     "Faridabad": 11680,
     "Gurugram": 12470,
-    "Hyderabad": 12359,
-    "Jaipur": 12010,
+    "Hyderabad": 12202,
+    "Jaipur": 12217,
     "Kanpur": 11590,
-    "Kochi": 11980,
-    "Kolkata": 12100,
-    "Lucknow": 11890,
-    "Madurai": 11770,
+    "Kochi": 12202,
+    "Kolkata": 12202,
+    "Lucknow": 12217,
+    "Madurai": 12328,
     "Meerut": 11620,
-    "Mumbai": 12650,
-    "Visakhapatnam": 12516
+    "Mumbai": 12202,
+    "Visakhapatnam": 12202
   }
 }
-
-
-
